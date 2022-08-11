@@ -1,8 +1,8 @@
 ### Caio Silva (rasecoiac03) 👋
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![rasecoiac03 Status](https://github-readme-stats.vercel.app/api?username=rasecoiac03&show_icons=true)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rasecoiac03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 rasecoiac03@gmail.com
 
